@@ -26,7 +26,7 @@ for fruit_chosen in ingredients_list:
 
 #st.write(my_insert_stmt)
 #st.stop()
-    time_to_insert = st.button('Submit Order')
+time_to_insert = st.button('Submit Order')
     
    
     
